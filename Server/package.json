@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "miller-rabin": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maldark/SchnorrsIdentificationScheme.git"
+  },
+  "keywords": [
+    "Schnorr"
+  ],
+  "author": "Alexander Qvist-Hellum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maldark/SchnorrsIdentificationScheme/issues"
+  },
+  "homepage": "https://github.com/Maldark/SchnorrsIdentificationScheme#readme"
+}
