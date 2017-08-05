@@ -4,6 +4,8 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "big-integer": "^1.6.23",
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "miller-rabin": "^4.0.0"
   },
